@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "editor.fontSize": 12,
+  "editor.tabSize": 2,
+  "editor.multiCursorModifier": "alt",
+  "editor.wordWrap": "off",
+  "editor.insertSpaces": true,
+  "editor.wordWrapColumn": 140
+}
